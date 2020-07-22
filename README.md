@@ -66,10 +66,13 @@ $ source <(bridge completion)
 
 ### 👨‍🔬 Research
 
+#### Unused struct fields
+
 - [github.com/3rf/codecoroner](https://github.com/3rf/codecoroner)
 - [github.com/tsenart/deadcode](https://github.com/tsenart/deadcode)
 - [gitlab.com/opennota/check](https://gitlab.com/opennota/check)
-- [honnef.co/go/tools](https://github.com/dominikh/go-tools)
+- [golang.org/x/tools/go/analysis](https://github.com/golang/tools)
+- [honnef.co/go/tools/unused](https://github.com/dominikh/go-tools)
 
 ---
 
